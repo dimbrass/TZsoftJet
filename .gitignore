@@ -10,3 +10,12 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+/.idea/deployment.xml
+/.idea/.gitignore
+/.idea/vcs.xml
+/.idea/TZsoftJet.iml
+/.idea/phpunit.xml
+/.idea/php.xml
+/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd
+/.idea/commandlinetools/Laravel_15_09_2022__12_12.xml
+/.idea/modules.xml
